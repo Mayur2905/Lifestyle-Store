@@ -52,10 +52,10 @@ Extract the files from project_solution.zip.</br>
 5.) Open the browser (chrome), type localhost/lifestylestore and you should see the index page of the website.</br>
 </p>
 
-# <b>****************************************************************************************************************************************</b>
+# <b>*********************************************************************</b>
 CONTACT: https://github.com/Mayur2905
 
-# <b>****************************************************************************************************************************************</b>
+# <b>*********************************************************************</b>
 <p>LICENSE AND COPYRIGHT: All the images used for this project are representational images.</br>
 Internshala holds no copyright over these images.</br>
 <b>TRADEMARKS:</b></br>
